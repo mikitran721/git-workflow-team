@@ -5,3 +5,4 @@
 - git commit -m '#5 add book model file'
 - push len github
 - check out ve nhanh 'develop' git checkout develop
+- tao nhanh release-v1.1.0; push len
